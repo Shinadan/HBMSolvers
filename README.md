@@ -49,6 +49,6 @@ If you use HBMIVP in your research, please cite:
   author       = {Shina D Oloniiju},
   title        = {HBMIVP: Hybrid block method solvers for IVPs},
   year         = {2025},
-  howpublished = {\url{https://github.com/Shinadan/HBMSolvers}}
+  howpublished = {\url{https://[github.com/Shinadan/HBMSolvers](https://github.com/Shinadan/HBMSolvers)}}
 }
 
