@@ -65,3 +65,4 @@ If you use HBMIVP in your research, please cite:
 
 }
 
+[![View HBMSolvers on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/181819-hbmsolvers)
